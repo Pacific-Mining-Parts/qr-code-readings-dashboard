@@ -3,7 +3,7 @@ PDF weekly report
 
 # Features
 
-## 1 Version
+## Version 0.1
 
 - API call to **last rolling week** calls
 - Show typical metrics:
