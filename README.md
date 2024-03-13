@@ -1,2 +1,2 @@
-# qr-code-readings-dashboard
+# QR Code Readings dashboard
 PDF weekly report
